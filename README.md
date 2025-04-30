@@ -113,6 +113,7 @@ Nvidia MX250
 | AMFIPass                         |
 | CPUFriend                        |
 | CPUFriendDataProvider            |
+| RestrictEvents                   |
 
 bios 设置参考：
 
